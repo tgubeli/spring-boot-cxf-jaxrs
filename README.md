@@ -1,5 +1,7 @@
 # Spring-Boot CXF JAXRS QuickStart
 
+Test
+
 This example demonstrates how you can use Apache CXF with Spring Boot
 based on a [fabric8 Java base image](https://github.com/fabric8io/base-images#java-base-images).
 
