@@ -6,6 +6,7 @@ based on a [fabric8 Java base image](https://github.com/fabric8io/base-images#ja
 The quickstart uses Spring Boot to configure a little application that includes a CXF JAXRS endpoint with Swagger enabled.
 
 
+
 ### Building
 
 The example can be built with
